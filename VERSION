@@ -1,0 +1,14 @@
+**Version 1.0**
+> Permite ingreso de la siguiente información:
+1-RUT
+2-Nombre
+3-Apellido paterno
+4-Apellido materno
+5-Teléfono
+6-Mail
+7-Fecha de Nacimiento
+8-Establecimiento (Desplegable: CESFAM Thomas Fenton, Mateo Bencur, Juan Damianovic, 18 Septiembre, Carlos Ibañez, CECOSF Rio Seco, Sandra Vargas, Fortaleciendo Vidas, CESFAM Juan Lozic, Hospital Augusto Essmann, Hospital Marco Antonio Chamorro, Hospital Clinico Magallanes, Posta Rio Verde, Posta Punta Delgada)
+9-Plataforma (SIC, DART, Telesalud, Telecomité Oncología, Atención Remota)
+10-Fecha de creación
+>Al realizar ENTER en RUT busca la base de datos si el perfil esta presente o no ("No hay registro del usuario") y entrega campos registrados (1,2,3,4,5,6,7)
+>Boton 'Guardar Usuario', registra el usuario en archvio .xlsx
